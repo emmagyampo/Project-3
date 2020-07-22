@@ -13,5 +13,6 @@ Include the files used
 
 ### Credits
 ### https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+### https://git-scm.com/docs/gitignore
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
