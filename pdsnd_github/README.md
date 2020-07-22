@@ -10,6 +10,7 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### The files used are csv files (chicago, washington, new_york_city) and a python file (bikeshare_2)
+### The files csv files are data files covering various demographic information about bikers, their destinations and time travels 
 Include the files used
 
 ### Credits
