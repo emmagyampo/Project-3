@@ -6,6 +6,7 @@ Replace the Project Title
 
 ### This project set out to post an existing work to github. 
 ### The existing work contains an analysis of a bikeshare data in three cities
+### The code ask users for their inputs and return analysis based on the inputs
 Describe what your project is about and what it does
 
 ### The files used are csv files (chicago, washington, new_york_city) and a python file (bikeshare_2)
