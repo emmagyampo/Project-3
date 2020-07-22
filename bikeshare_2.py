@@ -209,11 +209,11 @@ def trip_duration_stats(df):
     print('-'*40)
     
     #Ploting boxplot to identify for descriptives on trip_duration
-    #green_diamond = dict(markerfacecolor='g', marker='D')
-    '''fig1, ax1 = plt.subplots()
+    green_diamond = dict(markerfacecolor='g', marker='D')
+    fig1, ax1 = plt.subplots()
     ax1.set_title('Boxplot on Trip Duration')
     ax1.set_xlabel('Trip Duration')
-    ax1.boxplot(df['Trip Duration'], ylim(50, 20000), showfliers=False, patch_artist=True)'''
+    ax1.boxplot(df['Trip Duration'], ylim(50, 20000), showfliers=False, patch_artist=True)
     
 
 def user_stats(df):
