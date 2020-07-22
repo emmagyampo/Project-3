@@ -23,7 +23,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     cprint('Hello! Let\'s explore some US bikeshare data!', 'red', 'on_white',
-           attrs=['dark', 'underline'])
+           attrs=['blink', 'underline'])
     
     
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
